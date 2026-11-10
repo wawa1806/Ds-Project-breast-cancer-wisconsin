@@ -6,3 +6,5 @@ __pycache__/
 .python-version
 *:Zone.Identifier
 .DS_Store
+README_files
+README.html
